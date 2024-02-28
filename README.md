@@ -48,5 +48,5 @@ Contributions to StudyNotion are welcome! If you'd like to contribute:
 This project was created as a learning exercise and is based on Spring Boot and MySQL.
 
 Contact
-For questions or feedback, feel free to reach out to me at krishnadaspute07@email.com
+For questions or feedback, feel free to reach out to me at krishnadaspute07@gmail.com
 
