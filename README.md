@@ -1,4 +1,5 @@
 Study Notion.
+
 Study Notion is a web application designed to help users organize their notes effectively. 
 Built with Java, Spring Boot, HTML, CSS, Bootstrap, Thymeleaf, and incorporating authentication and authorization features,
 Study Notion offers a seamless platform for managing notes with ease.
