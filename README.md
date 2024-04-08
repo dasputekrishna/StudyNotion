@@ -31,7 +31,7 @@ Study Notion is open for contributions. Whether you're interested in adding new 
 Fork the repository, make your changes, and submit a pull request.
 
 Contact:
-For any inquiries or feedback regarding Study Notion, please contact us at krishnadaspute07@gmail.com. 
+For any inquiries or feedback regarding Study Notion, please contact us at krishnadaspute07@gmail.com 
 We're committed to enhancing the user experience and welcome your suggestions.
 
 
