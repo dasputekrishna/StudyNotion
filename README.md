@@ -23,16 +23,17 @@ HTML, CSS, Bootstrap: The frontend of Study Notion is crafted using HTML, CSS, a
 Thymeleaf: Thymeleaf is utilized for server-side templating, facilitating dynamic content rendering and seamless integration of backend data with frontend presentation.
 
 Get Started:
-To get started with Study Notion, simply clone the repository and follow the instructions in the README file.
-Deploy the application locally or on a server to start organizing your notes efficiently.
+To get started with Study Notion, simply clone the repository: bash Copy code git clone https://github.com/dasputekrishna/StudyNotion
+
 
 Contribution:
 Study Notion is open for contributions. Whether you're interested in adding new features, fixing bugs, or improving documentation, your contributions are welcome.
 Fork the repository, make your changes, and submit a pull request.
 
 Contact:
-For any inquiries or feedback regarding Study Notion, feel free to reach out to the project maintainers.
+For any inquiries or feedback regarding Study Notion, please contact us at krishnadaspute07@gmail.com. 
 We're committed to enhancing the user experience and welcome your suggestions.
+
 
 
 
